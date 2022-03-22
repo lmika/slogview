@@ -1,0 +1,2 @@
+# slogview
+Structured log viewer
